@@ -5,8 +5,6 @@ public:
         int n2 = needle.size();
         int c=0;
         for(int i=0;i<=n1;i++){
-            
-            cout<<needle[c]<< "  "<<haystack[i]<<endl;
             if( c  == n2){
                 return i - c;
             }
@@ -17,8 +15,8 @@ public:
             
             else{
                 if(c!=0){
-                i = i-c;
-                c=0;
+                   i = i-c;
+                   c=0;
                 }
             }
             
