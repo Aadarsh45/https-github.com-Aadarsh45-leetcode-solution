@@ -9,10 +9,7 @@ public:
         while(lo <= hgh){
             if(people[lo]+people[hgh] <= limit){
                 lo++;
-                int sum = 0;
-                
-                
-                hgh--;
+                 hgh--;
                 
             }
             else{
