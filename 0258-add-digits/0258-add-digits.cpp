@@ -1,8 +1,20 @@
 class Solution {
 public:
-    int cnt = 0;
+    
     int addDigits(int num) {
-       return 1 + (num - 1) % 9;
-        
-       }
+        int temp = 0;
+        if(num == 0){
+            return 0;
+        }
+        if(num/10 == 0){
+            return num;
+        }
+        while(num!=0){
+            temp += num%10;
+            num = num/10;
+        }
+        num = temp;
+       
+        return addDigits(num);
+    }
 };
