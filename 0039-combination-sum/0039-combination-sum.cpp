@@ -1,3 +1,4 @@
+//using concept of pick and not pick
 class Solution {
 private:
     void findCombination(int idx,vector<int>& candidates, int target,vector<vector<int>>& ans, vector<int>&ds){
@@ -9,11 +10,11 @@ private:
         }
         if(candidates[idx]<=target){
             ds.push_back(candidates[idx]);
-            findCombination(idx,candidates,target-candidates[idx],ans,ds);
+            findCombination(idx,candidates,target-candidates[idx],ans,ds);//pick
             ds.pop_back();
             
         }
-         findCombination(idx+1,candidates,target,ans,ds);
+         findCombination(idx+1,candidates,target,ans,ds);//not pick
     }
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
