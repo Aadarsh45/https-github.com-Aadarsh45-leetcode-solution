@@ -25,12 +25,13 @@ public:
         swap(arr[k-1], arr[n-k]);
 
         temp=head;
+       ListNode* curr=temp;
         for(auto i:arr)
         {
             temp->val=i;
             temp=temp->next;
         }
         
-        return head;
+        return curr;
     }
 };
