@@ -24,21 +24,7 @@ public:
                stk.push(asteroids[i]);
             }
         }
-//          for(int i=0;i<n;i++){
-//             if(st.size()==0 || sameParity(st.top(),v[i]) || (st.top()<0 && v[i]>0)){
-//                 st.push(v[i]); // no collision
-//             }
-//              else{
-//                 while(st.size()>0 && st.top()>0 && st.top() < abs(v[i])) st.pop(); // currect asteroid destroying existing
-                
-//                 if(st.size()==0 || st.top()<0){
-//                     st.push(v[i]);
-//                 }else if(st.top() == abs(v[i])){
-//                     st.pop();  // both asteroids get destroyed
-//                 }
-//             }
-//         }
-        
+
         vector<int>vec;
         
         if(stk.empty()){
