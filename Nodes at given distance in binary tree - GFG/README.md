@@ -1,6 +1,10 @@
 # Nodes at given distance in binary tree
 ## Hard
-<div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a binary tree, a target node in the binary tree, and an integer value k, find all the nodes that are at distance k from the given target node. No parent pointers are available.<br><strong>Note</strong>: You have to return list in sorted order.</span></p>
+<div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a binary tree, a target node in the binary tree, and an integer value k, find all the nodes that are at distance k from the given target node. No parent pointers are available.<br><strong>Note</strong>: </span></p>
+<ul>
+<li><span style="font-size: 18px;">You have to return the list in sorted order.</span></li>
+<li><span style="font-size: 18px;">The tree will <strong>not </strong>contain <strong>duplicate </strong>values.</span></li>
+</ul>
 <p><strong><span style="font-size: 18px;">Example 1:</span></strong></p>
 <pre><span style="font-size: 18px;"><strong>Input:      </strong>
           20
