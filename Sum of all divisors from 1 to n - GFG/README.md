@@ -1,6 +1,6 @@
 # Sum of all divisors from 1 to n
 ## Easy
-<div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a positive integer <strong>N</strong>., The task is to find the value of&nbsp;&nbsp;&nbsp; <img class="ql-img-inline-formula quicklatex-auto-format" style="height: 23px; vertical-align: -6px; width: 79px;" title="Rendered by QuickLaTeX.com" src="http://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-45420250014fd620fb684acbf2dc1527_l3.svg" alt="\sum_{i=1}^{i=n} F(i)">&nbsp; where function <em><strong>F(i)</strong></em> for the number <strong>i</strong> is defined as the sum of all divisors of <strong>i</strong>.</span></p>
+<div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a positive integer <strong>N</strong>., The task is to find the value of <strong>Σ<sub>i from 1 to N </sub></strong></span><span style="font-size: 18px;"><strong>F(i)</strong> where function </span><em style="font-size: 18px;"><strong>F(i)</strong></em><span style="font-size: 18px;"> for the number </span><strong style="font-size: 18px;">i</strong><span style="font-size: 18px;"> is defined as the sum of all divisors of </span><strong style="font-size: 18px;">i</strong><span style="font-size: 18px;">.</span></p>
 <p><strong><span style="font-size: 18px;">Example 1:</span></strong></p>
 <pre><strong><span style="font-size: 18px;">Input:
 N = 4</span></strong>
