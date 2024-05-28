@@ -1,25 +1,27 @@
 class Solution {
 public:
-    int solve(int n,vector<int>& prices,int cap,vector<vector<vector<int>>>&dp,int cnt){
-        if(cnt == 2 || n  == prices.size()) return 0;
-        
-        if(dp[n][cap][cnt] != -1) return dp[n][cap][cnt];
-            
-        long profit;
-        if(cap == 0){
-            profit = max(-prices[n]+solve(n+1,prices,1,dp,cnt) , solve(n+1,prices,0,dp,cnt));
-        }
-        else{
-            profit = max( prices[n]+solve(n+1,prices,0,dp,cnt+1) , solve(n+1,prices,1,dp,cnt));
-        }
-        
-        return dp[n][cap][cnt] =  profit;
-    }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-         vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(3, -1)));
+         vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(3, 0)));
         
-        return solve(0,prices,0,dp,0);
+        for(int i = n-1;i>=0;i--){
+            for(int j =0;j<2;j++){
+                for(int k = 1;k<=2;k++){
+                    long profit;
+                    if(j == 0){
+                      profit = max(-prices[i]+dp[i+1][1][k] , dp[i+1][0][k]);
+                    }     
+                    if(j == 1){
+                      profit = max( prices[i]+dp[i+1][0][k-1] , dp[i+1][1][k]);
+                    }
+                    dp[i][j][k] = profit;
+                    
+                }
+            }
+
+        }
+        
+        return dp[0][0][2];
         
     }
 };
