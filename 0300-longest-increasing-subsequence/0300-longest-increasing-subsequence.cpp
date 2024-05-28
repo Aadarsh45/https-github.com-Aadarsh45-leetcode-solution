@@ -7,7 +7,7 @@ public:
         vector<vector<int>> dp(n+1,vector<int>(n+1,0));
         
         for(int i = n-1;i>=0;i--){
-            for(int j = i-1;j>=-1;j--){
+            for(int j = i-1;j>=-1;j--){            // prev index travesal
                 int notTake = dp[i+1][j+1];
     
                int take = 0;
