@@ -8,7 +8,7 @@ class Solution {
             if (e1.c==e2.c){
                 return e1.ind < e2.ind;
             }
-            return e1.c > e2.c;
+            return e2.c < e1.c;
         }
     };
 public:
