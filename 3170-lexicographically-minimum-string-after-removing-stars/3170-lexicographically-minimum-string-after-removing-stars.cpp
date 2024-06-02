@@ -15,7 +15,7 @@ public:
     string clearStars(string s) {
         
         int n = s.length();
-        string ans;
+       
         info temp;
         priority_queue<info,vector<info>,comp> pq;
         vector<char>v(n,'A');
