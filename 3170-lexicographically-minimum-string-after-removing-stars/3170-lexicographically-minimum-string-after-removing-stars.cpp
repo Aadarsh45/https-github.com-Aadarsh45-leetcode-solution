@@ -4,7 +4,7 @@ class Solution {
         int ind;
     };
     struct comp{
-        bool operator()(const info& e1, const info& e2)const{
+        bool operator()(const info& e1, const info& e2){
             if (e1.c==e2.c){
                 return e1.ind < e2.ind;
             }
