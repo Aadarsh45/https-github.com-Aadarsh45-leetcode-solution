@@ -11,28 +11,51 @@
  */
 class Solution {
 public:
-    TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_map<int, TreeNode*> mp;
-        unordered_set<int> hasParent;
-        for(int i = 0; i < descriptions.size(); i++) {
-            if(mp.find(descriptions[i][0]) == mp.end())
-                mp[descriptions[i][0]] = new TreeNode(descriptions[i][0]);
-            if(mp.find(descriptions[i][1]) == mp.end())
-                mp[descriptions[i][1]] = new TreeNode(descriptions[i][1]);
-            hasParent.insert(descriptions[i][1]);
+    TreeNode* createBinaryTree(vector<vector<int>>& nums) {
+       unordered_map<int, TreeNode*> mp;
+       unordered_set<int> hasParent;
+        
+        for(auto it: nums){
+            int parent = it[0];
+            int child = it[1];
+            int left = it[2];
+            
+            if(mp.find(parent) == mp.end()){
+                mp[parent] = new TreeNode(parent);
+            }
+            if(mp.find(child)==mp.end()){
+                mp[child] = new TreeNode(child);
+                
+            }
+            hasParent.insert(child);
         }
         
-        TreeNode* root;
-        for(int i = 0; i < descriptions.size(); i++) {
-            if(descriptions[i][2]) { //left
-                mp[descriptions[i][0]] -> left = mp[descriptions[i][1]];
-            } else { //right
-                mp[descriptions[i][0]] -> right = mp[descriptions[i][1]];
-            }
-            if(hasParent.find(descriptions[i][0]) == hasParent.end()) {
-                root = mp[descriptions[i][0]];
+        TreeNode* ans = NULL;
+        
+        // Identify root node
+        for(auto it: nums) {
+            int parent = it[0];
+            if(hasParent.find(parent) == hasParent.end()) {
+                ans = mp[parent];
+               
             }
         }
-        return root;
+        
+         for(auto it: nums){
+            int parent = it[0];
+            int child = it[1];
+            int left = it[2];
+            
+            if(left == 1){
+               mp[parent]->left = mp[child];
+            }
+            else{
+                mp[parent]->right = mp[child];
+            }
+            
+        }
+        
+        return ans;
+        
     }
 };
