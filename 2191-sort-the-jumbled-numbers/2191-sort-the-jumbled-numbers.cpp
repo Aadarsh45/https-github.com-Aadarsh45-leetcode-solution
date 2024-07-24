@@ -1,36 +1,31 @@
 class Solution {
 public:
-     vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
-    int numCount = nums.size();
-    vector<pair<int, int>> mappedNumAndIndex(numCount);
-
-    for (int i = 0; i < numCount; ++i) {
-        int originalNum = nums[i];
-        string mappedNumStr = "";
+    vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
+        int  n = nums.size();
+        vector<int>ans;
+         multimap<int,int>hash;
         
-        if (originalNum == 0) {
-            mappedNumStr = to_string(mapping[0]);
-        } else {
-            while (originalNum > 0) {
-                int digit = originalNum % 10;
-                mappedNumStr = to_string(mapping[digit]) + mappedNumStr;
-                originalNum /= 10;
+        for(int i = 0;i<n;i++){
+           string temp = to_string(nums[i]);
+           int j = 0;
+            string t2 = "";
+            while(j < temp.length()){
+                int a = mapping[int(temp[j]-48)];
+                char t4 = char(a);
+                t2+= to_string(t4);
+                j++;
             }
+            cout<<t2<<endl;
+            int t3 = stoi(t2);
+            hash.insert({t3,nums[i]});
+           
+            
         }
-
-        int mappedNum = stoi(mappedNumStr);
-        mappedNumAndIndex[i] = {mappedNum, i};
+        for(auto it : hash){
+            ans.push_back(it.second);
+        }
+        
+        return ans;
+        
     }
-
-    sort(mappedNumAndIndex.begin(), mappedNumAndIndex.end());
-
-    vector<int> sortedNums;
-    for (const auto& pair : mappedNumAndIndex) {
-        sortedNums.push_back(nums[pair.second]);
-    }
-
-    return sortedNums;
-    }
-    
-    
 };
