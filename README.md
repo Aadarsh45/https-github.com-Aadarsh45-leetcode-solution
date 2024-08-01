@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1196-filling-bookcase-shelves) |
+| [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
