@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
@@ -100,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
