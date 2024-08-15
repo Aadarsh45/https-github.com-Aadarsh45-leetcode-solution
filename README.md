@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
@@ -157,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
