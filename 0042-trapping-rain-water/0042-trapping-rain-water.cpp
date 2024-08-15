@@ -1,13 +1,28 @@
 class Solution {
 public:
-    //total water is trapped into the bars
-    int trap(vector<int>& h) {
-        int l=0,r=h.size()-1,lmax=INT_MIN,rmax=INT_MIN,ans=0;
-        while(l<r){
-            lmax=max(lmax,h[l]);
-            rmax=max(rmax,h[r]);
-            ans+=(lmax<rmax)?lmax-h[l++]:rmax-h[r--];
+    int trap(vector<int>& height) {
+        int n = height.size();
+        vector<int>pre(n,0);
+        vector<int>suff(n,0);
+        pre[0] = height[0];
+        suff[n-1] = height[n-1];
+
+        for(int i = 1;i<n;i++){
+            pre[i] = max(pre[i-1],height[i]);
         }
-        return ans;
+        for(int i = n-2;i>=0;i--){
+            suff[i] = max(suff[i+1],height[i]);
+        }
+        
+       int water = 0;
+       
+       for(int i = 0;i<n;i++){
+        int mini = min(pre[i],suff[i]);
+        water += mini - height[i];
+       }
+       return water;
+    
+       
+        
     }
 };
