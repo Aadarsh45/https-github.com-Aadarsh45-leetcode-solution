@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
 |  |
