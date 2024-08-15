@@ -1,43 +1,36 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-         vector<vector<int>> ans;
+        vector<vector<int>>ans;
         sort(nums.begin(),nums.end());
-        
-        if(nums.size()<3){
-             return {};
-        }
-       
-        
-        for(int i=0;i<nums.size()-2;i++){
-                if(nums[i]>0){
-                break;
-                 }
-                 if(i>0 && nums[i]==nums[i-1]){
-                    continue;
+        int n = nums.size();
+
+        int i = 0;
+        while(i<n-2){
+            if (i > 0 && nums[i] == nums[i - 1]) {i++; continue; }
+             int j = i+1;
+             int k = n-1;
+           
+            while(j<k){
+                int sum = nums[i]+nums[j]+nums[k];
+                if(sum == 0){
+                   vector<int> temp = {nums[i], nums[j], nums[k]};
+                    ans.push_back(temp);
+                     j++;
+                     k--;
+                //skip the duplicates:
+                while (j < k && nums[j] == nums[j - 1]) j++;
+                while (j < k && nums[k] == nums[k + 1]) k--;
                 }
-                int hgh=nums.size()-1;
-                int lo=i+1;
-                int sum=0;
-                while(lo<hgh){
-                    sum=nums[i]+nums[hgh]+nums[lo];
-                    if(sum>0){
-                   hgh--;
-                    }
-                    if(sum<0){
-                    lo++;
-                    }
-                   if(sum==0){
-                    ans.push_back({nums[i],nums[lo],nums[hgh]});
-                    int last_low_occurence = nums[lo] , last_high_occurence = nums[hgh];  
-                    while(lo < hgh && nums[lo] == last_low_occurence){  
-                        lo++;
-                    }
-                    while(lo < hgh && nums[hgh] == last_high_occurence){
-                        hgh--;
-                    }
-                    }
+                else if(sum > 0){
+                    k--;
                 }
+                else{
+                    j++;
+                }
+            }
+            i++;
+
         }
         return ans;
         
