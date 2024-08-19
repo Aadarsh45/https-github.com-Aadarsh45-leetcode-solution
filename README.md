@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
