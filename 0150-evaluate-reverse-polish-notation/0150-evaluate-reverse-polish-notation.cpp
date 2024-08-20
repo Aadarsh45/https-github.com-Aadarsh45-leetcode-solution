@@ -1,37 +1,36 @@
 class Solution {
 public:
-    stack<int> st;
-    void operation(string& op){
-        if (st.empty()) return;
-        
-        int n2=st.top();
-        st.pop();
-        
-        if (st.empty()) return;
-        
-        int n1=st.top();
-        st.pop();
-        
-        int x;
-        switch(op[0]){
-            case '+': x=n1+n2; break;
-            case '-': x=n1-n2; break;
-            case '*': x=n1*n2; break;
-            case '/': x=n1/n2; break;
-        }
-        st.push(x);
-    }
     int evalRPN(vector<string>& tokens) {
-        for(string& s: tokens){
-            if (s.size()>1 || isdigit(s[0])){
-                int x=stoi(s);
-                st.push(x);
+        stack<int> stk;
+        
+
+        for(int i =0 ;i<tokens.size();i++){
+            if(tokens[i] == "+" || tokens[i] == "*" || tokens[i] == "-" ||tokens[i] == "/"){
+                string op = tokens[i];
+                int op1 = stk.top();stk.pop();
+                int op2 = stk.top();stk.pop();
+                
+                if(op == "+"){
+                    stk.push(op1+op2);
+                }
+                else if(op == "-"){
+                    stk.push(op2-op1);
+                }
+                else if(op == "*"){
+                     stk.push(op1*op2);
+                }
+                else{
+                    stk.push((op2/op1));
+                }
+                cout<<stk.top();
             }
-            else operation(s);              
+
+            else{
+                int temp = stoi(tokens[i]);
+                stk.push(temp);
+            }
         }
+        return stk.top();
         
-        if (st.empty()) return 0;
-        
-        return st.top();
     }
 };
