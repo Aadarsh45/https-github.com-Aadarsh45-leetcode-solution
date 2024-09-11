@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0624-maximum-distance-in-arrays) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0999-regions-cut-by-slashes) |
