@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0999-regions-cut-by-slashes) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
