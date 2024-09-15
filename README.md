@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0624-maximum-distance-in-arrays) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3519-find-the-number-of-winning-players](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3519-find-the-number-of-winning-players) |
