@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0493-reverse-pairs) |
+| [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
