@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1196-filling-bookcase-shelves) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
 ## Simulation
 |  |
@@ -340,4 +344,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
