@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0725-split-linked-list-in-parts](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
