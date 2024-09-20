@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0048-rotate-image) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0061-rotate-list) |
