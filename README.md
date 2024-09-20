@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
