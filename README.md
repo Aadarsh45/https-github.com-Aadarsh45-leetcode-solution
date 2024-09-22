@@ -367,4 +367,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
