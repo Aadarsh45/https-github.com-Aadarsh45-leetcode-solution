@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
+| [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0906-walking-robot-simulation) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -354,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 ## Sliding Window
 |  |
 | ------- |
