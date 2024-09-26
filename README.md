@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0242-valid-anagram) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
