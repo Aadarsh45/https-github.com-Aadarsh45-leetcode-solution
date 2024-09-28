@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0921-spiral-matrix-iii) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0725-split-linked-list-in-parts](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
 |  |
@@ -389,4 +392,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
