@@ -4,20 +4,24 @@ public:
         int m = grid.size();
         int n = grid[0].size();
         
-        for (int i = 1; i < m; i++) {
-            grid[i][0] += grid[i-1][0];
-        }
-        
-        for (int j = 1; j < n; j++) {
-            grid[0][j] += grid[0][j-1];
-        }
-        
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                grid[i][j] += min(grid[i-1][j], grid[i][j-1]);
+     
+
+        vector<vector<int>> dp(m, vector<int>(n, 0));
+        dp[0][0] = grid[0][0];
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if(i == 0&& j == 0){continue;}\
+                int lft = INT_MAX;
+                int dn = INT_MAX;
+
+                if(i > 0) lft = grid[i][j]+dp[i-1][j];
+                if(j > 0) dn = grid[i][j]+dp[i][j-1];
+
+                dp[i][j] = min(lft,dn);
             }
         }
+        return dp[m - 1][n - 1];
         
-        return grid[m-1][n-1];
     }
 };
