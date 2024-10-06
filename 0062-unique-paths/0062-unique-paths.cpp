@@ -1,24 +1,19 @@
 class Solution {
 public:
-    int solve(int row,int col,vector<vector<int>>&dp){
-      if(row == 0 && col == 0){return dp[0][0] = 1;}
-      
-      else if(row<0 || col<0){
-        return 0;
-      }
-      else if(dp[row][col]!=0){
-        return dp[row][col];
-      }
-      else{
-        return dp[row][col] = solve(row-1,col,dp) + solve(row,col-1,dp);
-      }
+    int help(int i,int j,vector<vector<int>>&dp){
+        if(i<0 || j<0)return 0;
+        if(i == 0 && j == 0){
+            return 1;
+        }
+        if(dp[i][j]!=-1)return dp[i][j];
+
+        return dp[i][j] = help(i-1,j,dp)+help(i,j-1,dp);
     }
     int uniquePaths(int m, int n) {
-      int row = m-1;
-      int col = n-1;
-      vector<vector<int>>dp(m,vector<int>(n,0));
-      
-     return solve(row,col,dp);
-     
+        vector<vector<int>>dp(m,vector<int>(n,-1));
+        return help(m-1,n-1,dp);
+        
+
+        
     }
 };
