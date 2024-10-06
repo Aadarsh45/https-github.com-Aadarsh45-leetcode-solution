@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0198-house-robber) |
