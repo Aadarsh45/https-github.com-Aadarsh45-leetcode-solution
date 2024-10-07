@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0624-maximum-distance-in-arrays) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1196-filling-bookcase-shelves) |
