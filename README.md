@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0493-reverse-pairs) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0999-regions-cut-by-slashes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1442-number-of-operations-to-make-network-connected) |
