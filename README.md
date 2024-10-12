@@ -444,4 +444,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0859-design-circular-deque) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
