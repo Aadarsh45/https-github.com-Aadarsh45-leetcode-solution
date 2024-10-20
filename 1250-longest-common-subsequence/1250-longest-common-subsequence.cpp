@@ -36,6 +36,30 @@ public:
 
             }
         }
+        //print the longest string 
+        // int len = dp[n][m];
+        // int i = n;
+        // int j = m;
+
+        // int index = len - 1;
+        // string str = "";
+        // for (int k = 1; k <= len; k++) {
+        //    str += "$"; // dummy string
+        // }
+
+        // while(i > 0 && j > 0){
+        //     if(s[i-1] == t[i-1]){
+        //         str[index] = s[i-1];
+        //     }
+        //      else if (s[i - 1] > t[j - 1]) {
+        //         i--;
+        //     }   
+        //     else j--;
+
+        // }
+        // cout<<str<<endl;
+
+
 
         return dp[n][m];
 
