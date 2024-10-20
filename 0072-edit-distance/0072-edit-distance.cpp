@@ -1,27 +1,31 @@
 class Solution {
 public:
-    int solve(int n,int m,string s,string t,vector<vector<int>>&dp){
-         if (n < 0) return m + 1;
-         if (m < 0) return n + 1;
+    int minDistance(string word1, string word2) {
+        int n = word1.length();
+        int m = word2.length();
+        vector<vector<int>> dp(n+1, vector<int>(m+1, 0));
         
-        if(dp[n][m]!= -1) return dp[n][m];
-        
-        if(s[n] == t[m]){ dp[n][m] = solve(n-1,m-1,s,t,dp);}
-        else{
-           
-          dp[n][m] = 1+ min( (solve(n-1,m-1,s,t,dp)) ,min( (solve(n-1,m,s,t,dp)) , (solve(n,m-1,s,t,dp)) ) );
+        // Initialize the first row and column
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = i;
+        }
+        for (int j = 0; j <= m; j++) {
+            dp[0][j] = j;
         }
         
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+                if (word1[i-1] == word2[j-1]) {
+                    dp[i][j] = dp[i-1][j-1]; // No operation needed
+                } else {
+                //Minimum of three choices:
+                // 1. Replace the character at S1[i-1] with S2[j-1]
+                // 2. Delete the character at S1[i-1]
+                // 3. Insert the character at S2[j-1] into S1
+                    dp[i][j] = 1 + min({dp[i-1][j-1], dp[i][j-1], dp[i-1][j]}); // Replace, Insert, Delete
+                }
+            }
+        }
         return dp[n][m];
-
-
-    }
-    int minDistance(string word1, string word2) {
-        
-        int n = word1.length(),m = word2.length();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
-        
-        return solve(n-1,m-1,word1,word2,dp);
-        
     }
 };
