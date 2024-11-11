@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
 | [3519-find-the-number-of-winning-players](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3519-find-the-number-of-winning-players) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1240-stone-game-ii) |
+| [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -495,4 +499,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1827-invalid-tweets) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
