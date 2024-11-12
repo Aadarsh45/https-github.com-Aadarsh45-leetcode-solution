@@ -1,46 +1,61 @@
+
+
 class Solution {
 public:
-    void solve(vector<vector<char>>& board) {
-        int n= board.size();
-        int m = board[0].size();
-        
-        queue<pair<int,int>>q;
-        vector<vector<int>>vis(n,vector<int>(m,0));
-        
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if((i == 0 || j==0 || i == n-1 || j==m-1) && (vis[i][j] == 0 && board[i][j] == 'O')){
-                    q.push({i,j});
-                    vis[i][j] = 1;
+    vector<vector<int>> dir = {{-1,0},{0,-1},{1,0},{0,1}};
+    
+    bool check(int i, int j, int n, int m) {
+        return (i >= 0 && j >= 0 && i < n && j < m);
+    }
+
+    void solve(vector<vector<char>>& mat) {
+        int n = mat.size();
+        int m = mat[0].size();
+
+        vector<vector<bool>> res(n, vector<bool>(m, false));
+        queue<pair<int, int>> q;
+
+        for (int i = 0; i < n; i++) {
+            if (mat[i][0] == 'O') {
+                res[i][0] = true;
+                q.push({i, 0});
+            }
+            if (mat[i][m - 1] == 'O') {
+                res[i][m - 1] = true;
+                q.push({i, m - 1});
+            }
+        }
+        for (int j = 1; j < m - 1; j++) {
+            if (mat[0][j] == 'O') {
+                res[0][j] = true;
+                q.push({0, j});
+            }
+            if (mat[n - 1][j] == 'O') {
+                res[n - 1][j] = true;
+                q.push({n - 1, j});
+            }
+        }
+
+        while (!q.empty()) {
+            auto [r, c] = q.front();
+            q.pop();
+
+            for (auto it : dir) {
+                int nr = r + it[0];
+                int nc = c + it[1];
+                if (check(nr, nc, n, m) && !res[nr][nc] && mat[nr][nc] == 'O') {
+                    res[nr][nc] = true;
+                    q.push({nr, nc});
                 }
             }
         }
-        
-        int dir[] = {0,-1,0,1,0};
-        
-        while(!q.empty()){
-            auto [r,c] = q.front();q.pop();
-            
-            for(int i =0;i<4;i++){
-                int nr = r+dir[i];
-                int nc = c+dir[i+1];
-                
-                if(nr>=0 && nr<n && nc>=0 && nc<m && vis[nr][nc] == 0 && board[nr][nc] == 'O'){
-                    vis[nr][nc] = 1;
-                    q.push({nr,nc});
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (res[i][j] == false && mat[i][j] == 'O') {
+                    mat[i][j] = 'X';
                 }
             }
         }
-        
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(vis[i][j] == 0 ){
-                    board[i][j] = 'X';
-                }
-            }
-        }
-        
-        
-        
     }
 };
