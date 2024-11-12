@@ -1,25 +1,41 @@
 class Solution {
 public:
+    vector<vector<int>> dir = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
     
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int m = mat.size(), n = mat[0].size();
-        queue<pair<int, int>> q;
-        for (int r = 0; r < m; ++r)
-            for (int c = 0; c < n; ++c)
-                if (mat[r][c] == 0) q.emplace(r, c);
-                else mat[r][c] = -1; // Marked as not processed yet!
+        int n = mat.size();
+        int m = mat[0].size();
         
-        int DIR[] = {0,-1,0,1,0};
-
-        while (!q.empty()) {
-            auto [r, c] = q.front(); q.pop();
-            for (int i = 0; i < 4; ++i) {
-                int nr = r + DIR[i], nc = c + DIR[i+1];
-                if (nr < 0 || nr == m || nc < 0 || nc == n || mat[nr][nc] != -1) continue;
-                mat[nr][nc] = mat[r][c] + 1;
-                q.emplace(nr, nc);
+        // Initialize the result matrix with -1 for 1s and 0 for 0s.
+        vector<vector<int>> res(n, vector<int>(m, -1));
+        queue<pair<int, int>> q;
+        
+        // Push all cells with 0 into the queue and mark them in the result.
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (mat[i][j] == 0) {
+                    res[i][j] = 0;
+                    q.push({i, j});
+                }
             }
         }
-        return mat;
+        
+        // BFS from all 0s to calculate the distance to the nearest 0 for each cell.
+        while (!q.empty()) {
+            auto [r, c] = q.front();
+            q.pop();
+            
+            for (auto d : dir) {
+                int nr = r + d[0];
+                int nc = c + d[1];
+                
+                if (nr >= 0 && nc >= 0 && nr < n && nc < m && res[nr][nc] == -1) {
+                    res[nr][nc] = res[r][c] + 1;
+                    q.push({nr, nc});
+                }
+            }
+        }
+        
+        return res;
     }
 };
