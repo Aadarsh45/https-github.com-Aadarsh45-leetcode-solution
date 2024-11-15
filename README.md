@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1694-make-sum-divisible-by-p) |
+| [1753-path-with-minimum-effort](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1753-path-with-minimum-effort](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1753-path-with-minimum-effort) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1753-path-with-minimum-effort](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1753-path-with-minimum-effort) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
@@ -331,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1753-path-with-minimum-effort](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1753-path-with-minimum-effort) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Math
 |  |
@@ -388,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1753-path-with-minimum-effort](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
