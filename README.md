@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0062-unique-paths) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0206-reverse-linked-list) |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
