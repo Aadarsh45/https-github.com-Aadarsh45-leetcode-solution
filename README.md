@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0273-integer-to-english-words) |
 ## Simulation
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
