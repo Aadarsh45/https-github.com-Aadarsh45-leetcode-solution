@@ -1,53 +1,55 @@
+/*
 // Definition for a Node.
-// class Node {
-// public:
-//     int val;
-//     Node* next;
-//     Node* random;
+class Node {
+public:
+    int val;
+    Node* next;
+    Node* random;
     
-//     Node(int _val) {
-//         val = _val;
-//         next = nullptr;
-//         random = nullptr;
-//     }
-// };
+    Node(int _val) {
+        val = _val;
+        next = NULL;
+        random = NULL;
+    }
+};
+*/
 
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if (head == nullptr) return nullptr;
+        if (!head) return nullptr;
 
-        // Step 1: Create new nodes and insert them after each original node
+        // Step 1: Interleave nodes
         Node* curr = head;
-        while (curr != nullptr) {
-            Node* newNode = new Node(curr->val);
-            newNode->next = curr->next;
-            curr->next = newNode;
-            curr = newNode->next;
+        while (curr) {
+            Node* copy = new Node(curr->val);
+            copy->next = curr->next;
+            curr->next = copy;
+            curr = copy->next;
         }
 
-        // Step 2: Assign random pointers for the new nodes
+        // Step 2: Assign random pointers
         curr = head;
-        while (curr != nullptr) {
-            if (curr->random != nullptr) {
+        while (curr) {
+            if (curr->random) {
                 curr->next->random = curr->random->next;
             }
             curr = curr->next->next;
         }
 
-        // Step 3: Separate the new list from the original list
+        // Step 3: Separate lists
         curr = head;
-        Node* newHead = head->next;
-        Node* copy = newHead;
-        while (curr != nullptr) {
+        Node* copyHead = head->next;
+        Node* copyCurr = copyHead;
+        while (curr) {
             curr->next = curr->next->next;
-            if (copy->next != nullptr) {
-                copy->next = copy->next->next;
+            if (copyCurr->next) {
+                copyCurr->next = copyCurr->next->next;
             }
             curr = curr->next;
-            copy = copy->next;
+            copyCurr = copyCurr->next;
         }
 
-        return newHead;
+        return copyHead;
     }
 };
