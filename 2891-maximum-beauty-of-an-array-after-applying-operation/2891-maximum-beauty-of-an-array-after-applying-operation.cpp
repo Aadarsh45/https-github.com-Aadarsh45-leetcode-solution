@@ -1,35 +1,32 @@
-
 class Solution {
 public:
     int maximumBeauty(vector<int>& nums, int k) {
-        sort(nums.begin(), nums.end());
+        // If there's only one element, the maximum beauty is 1
+        if (nums.size() == 1) return 1;
+
         int maxBeauty = 0;
+        int maxValue = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-            // Find the farthest index where the value is within the range
-            // [nums[i], nums[i] + 2*k]
-            int upperBound = findUpperBound(nums, nums[i] + 2 * k);
-            // Update the maximum beauty based on the current range
-            maxBeauty = max(maxBeauty, upperBound - i + 1);
+        // Find the maximum value in the array
+        for (int num : nums) maxValue = max(maxValue, num);
+
+        // Create an array to keep track of the count changes
+        vector<int> count(maxValue + 1, 0);
+
+        // Update the count array for each value's range [val - k, val + k]
+        for (int num : nums) {
+            count[max(num - k, 0)]++;  // Increment at the start of the range
+            if (num + k + 1 <= maxValue)
+                count[num + k + 1]--;  // Decrement after the range
         }
+
+        int currentSum = 0;  // Tracks the running sum of counts
+        // Calculate the prefix sum and find the maximum value
+        for (int val : count) {
+            currentSum += val;
+            maxBeauty = max(maxBeauty, currentSum);
+        }
+
         return maxBeauty;
-    }
-
-private:
-    // Helper function to find the largest index where arr[index] <= val
-    int findUpperBound(vector<int>& arr, int val) {
-        int low = 0, high = arr.size() - 1, result = 0;
-
-        // Perform binary search to find the upper bound
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (arr[mid] <= val) {
-                result = mid;  // Update the result and move to the right half
-                low = mid + 1;
-            } else {
-                high = mid - 1;  // Move to the left half
-            }
-        }
-        return result;
     }
 };
