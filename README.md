@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3519-find-the-number-of-winning-players](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3519-find-the-number-of-winning-players) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Dynamic Programming
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Memoization
 |  |
 | ------- |
