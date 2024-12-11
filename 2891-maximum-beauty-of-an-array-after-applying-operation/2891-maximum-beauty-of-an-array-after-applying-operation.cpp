@@ -17,7 +17,8 @@ public:
         for (int num : nums) {
             count[max(num - k, 0)]++;  // Increment at the start of the range
             if (num + k + 1 <= maxValue)
-                count[num + k + 1]--;  // Decrement after the range
+               { cout<<num<<" "<<num+k+1<<endl;
+                count[num + k + 1]--;}  // Decrement after the range
         }
 
         int currentSum = 0;  // Tracks the running sum of counts
