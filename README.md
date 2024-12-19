@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0906-walking-robot-simulation) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
@@ -458,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
