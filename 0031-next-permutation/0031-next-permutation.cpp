@@ -1,29 +1,31 @@
-
 class Solution {
 public:
-    void nextPermutation(std::vector<int>& nums) {
-        int n = nums.size();
-        int i = n - 2;
-        
-        // Find the first decreasing element
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-        
-        if (i >= 0) {
-            int j = n - 1;
-            // Find the element just larger than nums[i]
-            while (nums[j] <= nums[i]) {
-                j--;
+    int findBreakPoint(vector<int>&arr,int n){
+        int i = -1;
+        for(int j = n-2;j>=0;j--){
+            if(arr[j] < arr[j+1]){
+                i = j;
+                break;
             }
-            std::swap(nums[i], nums[j]);
-        } else {
-            // If no such element is found, reverse the entire array
-            std::reverse(nums.begin(), nums.end());
-            return;
         }
+
+        return i;
+    }
+    void nextPermutation(vector<int>& nums) {
+        int n = nums.size();
+        int breakPoint = findBreakPoint(nums,n);
+
+        if(breakPoint == -1){
+            return reverse(nums.begin(),nums.end());
+        }
+        for(int i = n-1;i > breakPoint;i--){
+            if(nums[i] > nums[breakPoint]){
+                swap(nums[i],nums[breakPoint]);
+                break;
+            }
+
+        }
+        reverse(nums.begin()+breakPoint+1,nums.end());
         
-        // Reverse the elements from i+1 to the end of the array
-        std::reverse(nums.begin() + i + 1, nums.end());
     }
 };
