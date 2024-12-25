@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0733-flood-fill) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -441,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
