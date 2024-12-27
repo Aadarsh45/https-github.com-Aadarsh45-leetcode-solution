@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1240-stone-game-ii) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1250-longest-common-subsequence) |
