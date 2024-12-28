@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0733-flood-fill) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0650-2-keys-keyboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1063-best-sightseeing-pair) |
