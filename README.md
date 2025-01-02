@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
 |  |
 | ------- |
